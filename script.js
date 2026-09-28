@@ -1,6 +1,6 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
-	 if (s1 === null || s2 === null) {
+	if (s1 == null || s2 == null) {
         return -1;
     }
 
